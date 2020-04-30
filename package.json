@@ -1,0 +1,11 @@
+{
+  "name": "material-icon",
+  "version": "1.0.0",
+  "description": "material font icons",
+  "main": "style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Safari",
+  "license": "ISC"
+}
